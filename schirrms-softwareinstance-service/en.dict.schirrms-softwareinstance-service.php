@@ -10,5 +10,7 @@ Dict::Add('EN US', 'English', 'English', array(
 	// Dictionary entries go here
 	'Class:Software/Attribute:type/Value:ciservice_id' => 'CI Service',
 	'Class:CIService' => 'CI Service',
+	'Class:Software/Attribute:type/Value:ciservice' => 'CI Service',
+	'Class:Software/Attribute:type/Value:container' => 'Container',
 ));
 ?>

@@ -10,5 +10,7 @@
 	// Dictionary entries go here
 	'Class:Software/Attribute:type/Value:ciservice_id' => 'Service du CI',
 	'Class:CIService' => 'Service du CI',
+	'Class:Software/Attribute:type/Value:ciservice' => 'Service du CI',
+	'Class:Software/Attribute:type/Value:container' => 'Container',
 ));
 ?>
