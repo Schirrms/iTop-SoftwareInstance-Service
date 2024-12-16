@@ -170,6 +170,9 @@
             <item id="name">
               <rank>10</rank>
             </item>
+            <item id="portnumber" _delta="define">
+              <rank>15</rank>
+            </item>
             <item id="org_id">
               <rank>20</rank>
             </item>
@@ -190,6 +193,9 @@
             </item>
             <item id="path">
               <rank>80</rank>
+            </item>
+            <item id="mid_user" _delta="define">
+              <rank>85</rank>
             </item>
             <item id="move2production">
               <rank>90</rank>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <extension format="1.0">
   <extension_code>schirrms-softwareinstance-service</extension_code>
-  <version>0.0.1</version>
+  <version>0.1.0</version>
   <label><![CDATA[Add a service final class to SoftwareInstance]]></label>
   <description><![CDATA[Add a 'Service' final class to Software, to view all softwares belonging to the same 'Service' (as in Linux Systemd Services, maybe not so useful in other contexts)]]></description>
   <mandatory>false</mandatory>

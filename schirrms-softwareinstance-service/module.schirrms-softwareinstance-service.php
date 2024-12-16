@@ -5,7 +5,7 @@
 
 SetupWebPage::AddModule(
 	__FILE__, // Path to the current file, all other file names are relative to the directory containing this file
-	'schirrms-softwareinstance-service/0.0.1',
+	'schirrms-softwareinstance-service/0.1.0',
 	array(
 		// Identification
 		//
@@ -17,7 +17,8 @@ SetupWebPage::AddModule(
 		'dependencies' => array(
 			'itop-config-mgmt/2.7.0',
 			'schirrms-safetrain/0.0.1',
-			'schirrms-software-dependencies/0.0.1'
+			'schirrms-software-dependencies/0.0.1',
+			'schirrms-middleware-update/1.1.0'
 		),
 		'mandatory' => false,
 		'visible' => true,
